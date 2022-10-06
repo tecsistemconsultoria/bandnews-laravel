@@ -1,0 +1,93 @@
+.logo_band_news{
+    height: 85px;
+}
+
+.logo_band{
+    height: 68px;
+    color: #002D7C !important;
+}
+
+.nav_link_custom {
+    color: #002D7C !important;
+}
+
+.nav_item_custom{
+    height: 100%;;
+}
+
+.main_container{
+    height: 300px;
+}
+
+.banner{
+    background-color: #b1cdff;
+    height: 250px ;
+    width: 970px !important;
+}
+
+.categories{
+    width: 100%;
+    height: 720px;
+}
+
+.category_container{
+    width: 100%;
+    height: 650px;
+}
+
+.main_category{
+    width: 100%;
+    height: 100%;
+    background-color: #707070;
+    border-radius: 15px;
+}
+
+.category{
+    width: 100%;
+    background-color: #707070;
+    border-radius: 15px;
+    height: 300px;
+}
+
+.resume_container{
+    width: 100%;
+    height: 550px;
+}
+
+.resume_img {
+
+    height: 240px;
+    border-radius: 15px;
+    background-color: #707070;
+
+}
+
+.footer {
+    background-color: black;
+    height: 345px;
+}
+
+.bandeirantes{
+    color: #F5F5F5;
+    font-size: 38px;
+    font-weight: 600;
+}
+
+.report {
+    background-color: #002D7C;
+    color: #FFFFFF;
+    border: none;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 25px;
+}
+
+.titulo{
+    font-weight: 600;
+
+}
+
+.category_title{
+    color: #002D7C;
+    font-size: 18px;
+}
