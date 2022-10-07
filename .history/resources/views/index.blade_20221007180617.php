@@ -59,7 +59,7 @@
                         </li>
 
                     </ul>
-                    <img src="./img/Logo_Band.svg" alt="Band" style="width: 100px; right: 5px;">
+                    <img src="./img/Logo_Band.svg" alt="Band" style="width: 100px; ">
 
                 </div>
             </div>

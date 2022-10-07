@@ -20,10 +20,10 @@
 
 <body>
     <main>
-        <nav class="navbar navbar-expand-lg bg-light shadow-sm " style="height: 100%; width: 100%; display: flex; justify-content: space-between;">
+        <nav class="navbar navbar-expand-lg bg-light shadow-sm">
             <div class="container" style="height: 100%;">
                 <a class="" href="#">
-                    <img src="./img/Logo_BandNews.png" alt="Band News" style="width: 100px">
+                    <img src="./img/Logo_BandNews.png" alt="Band News" style="">
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -59,7 +59,7 @@
                         </li>
 
                     </ul>
-                    <img src="./img/Logo_Band.svg" alt="Band" style="width: 100px; right: 5px;">
+                    <img src="./img/Logo_Band.svg" alt="Band" class="logo_band">
 
                 </div>
             </div>
