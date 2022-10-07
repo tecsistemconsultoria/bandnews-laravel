@@ -16,12 +16,12 @@ use Illuminate\Support\Facades\Http;
 
 Route::get('/', function () {
 
-    $endpoint = "https://api.dev.newcoprogramadora.com.br/contents?id=titulo-da-noticia-aqui";
-    $token = env('TOKEN_API');
-    $response = Http::withToken($token)->get($endpoint);
+    // $endpoint = "https://api.dev.newcoprogramadora.com.br/contents?id=titulo-da-noticia-aqui";
+    // $token = env('TOKEN_API');
+    // $response = Http::withToken($token)->get($endpoint);
 
-    $arrRes = json_decode($response->body()); 
-    $noticia = $arrRes->list[0];
+    // $arrRes = json_decode($response->body()); 
+    // $noticia = $arrRes->list[0];
 
-    return view('index', compact('noticia'));
+    return view('index');
 });

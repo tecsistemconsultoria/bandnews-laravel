@@ -9,9 +9,9 @@
 <div class="container mb-1 categories">
     <div class="row h-100">
         <div class="col-md-8 category_container p-3">
-            <p class="category_title">{{ $noticia->category[0]->name }}</p>
-            <div class="main_category d-flex align-items-end" style="background-image: url({{ $noticia->image_front_b64 }}); background-repeat: no-repeat; background-size: cover;">
-                <h2 class="text-white m-4 titulo">{{ $noticia->name }}</h2>
+            <p class="category_title"></p>
+            <div class="main_category d-flex align-items-end" style="background-image: url(); background-repeat: no-repeat; background-size: cover;">
+                <h2 class="text-white m-4 titulo"></h2>
             </div>
         </div>
         <div class="col-md-4 category_container d-flex flex-column p-3">
