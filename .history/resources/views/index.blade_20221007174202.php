@@ -20,10 +20,9 @@
 
 <body>
     <main>
-        <!--
         <nav class="navbar navbar-expand-lg bg-light shadow-sm">
             <div class="container" style="height: 100%;">
-                <a class="" href="#">
+                <a class="navbar-brand mx-2" href="#">
                     <img src="./img/Logo_BandNews.png" alt="Band News" class="logo_band_news">
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -65,7 +64,6 @@
                 </div>
             </div>
         </nav>
--->
         <section id="section01">
             <div class="container">
                 <div class="row">

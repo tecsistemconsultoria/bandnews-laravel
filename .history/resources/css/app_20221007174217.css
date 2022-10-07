@@ -382,7 +382,6 @@ footer hr {
     width: 90%;
 }
 
-.logo_band_news,
-.logo_band {
-    width: 50px !important;
+.logo_band_news .logo_band {
+    width: 90px !important;
 }

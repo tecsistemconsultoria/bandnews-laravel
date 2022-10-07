@@ -20,11 +20,10 @@
 
 <body>
     <main>
-        <!--
         <nav class="navbar navbar-expand-lg bg-light shadow-sm">
             <div class="container" style="height: 100%;">
-                <a class="" href="#">
-                    <img src="./img/Logo_BandNews.png" alt="Band News" class="logo_band_news">
+                <a class="navbar-brand mx-5" href="#">
+                    <img src="Logo_BandNews.png" alt="Band News" class="logo_band_news">
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -60,12 +59,11 @@
                         </li>
 
                     </ul>
-                    <img src="./img/Logo_Band.svg" alt="Band" class="logo_band">
+                    <img src="{{ asset('img/Logo_Band.svg') }}" alt="Band" class="logo_band mx-4">
 
                 </div>
             </div>
         </nav>
--->
         <section id="section01">
             <div class="container">
                 <div class="row">

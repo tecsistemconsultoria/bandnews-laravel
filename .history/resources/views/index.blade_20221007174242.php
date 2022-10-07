@@ -20,7 +20,6 @@
 
 <body>
     <main>
-        <!--
         <nav class="navbar navbar-expand-lg bg-light shadow-sm">
             <div class="container" style="height: 100%;">
                 <a class="" href="#">
@@ -65,7 +64,6 @@
                 </div>
             </div>
         </nav>
--->
         <section id="section01">
             <div class="container">
                 <div class="row">
