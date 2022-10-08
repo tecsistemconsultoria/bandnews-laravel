@@ -19,7 +19,7 @@
 </head>
 
 <body>
-    <main>
+    <main style="background-color: #f5f5f5;">
         <nav class="navbar navbar-expand-lg bg-light shadow-sm " style="height: 100%; width: 100%; display: flex; justify-content: space-between;">
             <div class="container" style="height: 100%;">
                 <a class="" href="#">
@@ -316,7 +316,7 @@
 
         <section id="section10">
             <div class="title">
-                <h1>Programas</h1>
+                <h1>PROGRAMAS</h1>
             </div>
             <div class="container">
                 <div id="programas">

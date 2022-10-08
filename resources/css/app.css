@@ -4,11 +4,17 @@
     box-sizing: border-box;
 }
 
-body {
-    background: #fffce5;
-    font-family: "Open Sans", sans-serif;
+.container {
+    background-color: #f5f5f5 !important;
 }
 
+body {
+    background: #f5f5f5;
+    font-family: "Open Sans", sans-serif;
+}
+section > div > h1 {
+    text-transform: uppercase !important;
+}
 h1,
 #section11 h2 {
     color: #002d7c;
@@ -282,8 +288,8 @@ main {
 }
 
 .title {
-    background: #002d7c;
-    margin-left: 7%;
+    background: #0d121a;
+    margin-left: 5%;
     margin-bottom: 30px;
 }
 
